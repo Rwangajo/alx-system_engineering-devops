@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /stc/paswd
+tail /etc/passwd
